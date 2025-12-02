@@ -1,0 +1,3 @@
+npm install @modelcontextprotocol/sdk zod
+
+npm install -D @types/node typescript
